@@ -17,7 +17,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.boot.version>2.1.8.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <dubbo.spring.boot.starter.version>2.7.3</dubbo.spring.boot.starter.version>
 
         <java.version>1.8</java.version>
